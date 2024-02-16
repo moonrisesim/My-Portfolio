@@ -1,0 +1,221 @@
+body {
+  font-family: Arial;
+}
+
+.header-profile {
+  width: 100%;
+}
+
+.header-profile img {
+  width: 100%;
+  opacity: 100%;
+}
+
+.header-bottom {
+  height: 1000px;
+  width: 100%;
+}
+
+section {
+  width: 100%;
+  max-width: 1100px;
+  background-color: white;
+  margin: 0 auto;
+}
+
+/* portfolio titles style */
+.portfolio p {
+  font-size: 28px;
+  color: rgb(58, 58, 58);
+  text-align: center;
+  padding: 20px;
+}
+
+/* p-menu */
+.p-menu-div {
+  margin-bottom: 417px;
+}
+
+.p-menu-title {
+  margin-bottom: 146px;
+}
+
+.p-menu {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.p-menu img {
+  width: 100%;
+}
+
+.p-leaf {
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+  margin: auto;
+}
+
+.p-leaf img {
+  margin: 0;
+  width: 49%;
+}
+
+/* p-creative */
+.p-creative-div {
+  margin-bottom: 417px;
+}
+
+.p-creative-title {
+  margin-bottom: 146px;
+}
+
+.p-radio {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-radio img {
+  width: 100%;
+}
+
+.p-chicken {
+  width: 100%;
+  max-width: 1000px;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-chicken img {
+  margin: 0;
+  width: 49%;
+}
+
+.p-newyear {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-newyear img {
+  width: 100%;
+}
+
+
+/* p-illustration */
+.p-illustration-title {
+  margin-bottom: 66px;
+}
+
+.p-drawing {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-drawing img {
+  width: 100%;
+}
+
+.p-bodies {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-bodies img {
+  width: 100%;
+}
+
+
+.p-bananas{
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-bananas img {
+  width: 49%;
+}
+
+.p-cat {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-cat img {
+  width: 100%;
+}
+
+.p-food {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-food img {
+  width: 100%;
+}
+
+.p-bird {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  margin-bottom: 67px;
+}
+
+.p-bird img {
+  width: 100%;
+}
+
+.p-standing {
+  width: 100%;
+  max-width: 380px;
+  margin: auto;
+}
+
+.p-standing img {
+  width: 100%;
+}
+
+
+main {
+  margin-bottom: 147px;
+}
+
+
+.image-sources {
+  padding-left: 20px;
+  margin-bottom: 58px;
+}
+
+.image-sources p {
+  font-size: 13px;
+  line-height: 50%;
+  color: rgb(197, 195, 196);
+}
+
+.image-sources::first-line {
+  line-height: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.contact {
+  background-color: rgb(189, 180, 184);
+  padding: 12px 20px;
+  line-height: 50%;
+  color:rgb(233, 225, 235);
+}
