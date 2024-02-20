@@ -37,7 +37,7 @@ section {
 }
 
 .p-menu-title {
-  margin-bottom: 66px;
+  margin-bottom: 100px;
 }
 
 .p-menu {
@@ -68,15 +68,14 @@ section {
   margin-bottom: 417px;
 }
 
-.p-creative-title {
-  margin-bottom: 66px;
+.p-creative-div div {
+  margin-bottom: 100px;
 }
 
 .p-radio {
   width: 100%;
   max-width: 600px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-radio img {
@@ -88,7 +87,6 @@ section {
   max-width: 1000px;
   text-align: center;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-chicken img {
@@ -100,24 +98,31 @@ section {
   width: 100%;
   max-width: 400px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-newyear img {
   width: 100%;
 }
 
+.p-earth {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.p-earth img {
+  width: 100%;
+}
 
 /* p-illustration */
-.p-illustration-title {
-  margin-bottom: 66px;
+.p-illustration-div div {
+  margin-bottom: 100px;
 }
 
 .p-drawing {
   width: 100%;
   max-width: 500px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-drawing img {
@@ -128,19 +133,16 @@ section {
   width: 100%;
   max-width: 500px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-bodies img {
   width: 100%;
 }
 
-
 .p-bananas{
   width: 100%;
   max-width: 800px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-bananas img {
@@ -151,7 +153,6 @@ section {
   width: 100%;
   max-width: 400px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-cat img {
@@ -162,7 +163,6 @@ section {
   width: 100%;
   max-width: 400px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-food img {
@@ -173,7 +173,6 @@ section {
   width: 100%;
   max-width: 400px;
   margin: auto;
-  margin-bottom: 67px;
 }
 
 .p-bird img {
@@ -187,6 +186,17 @@ section {
 }
 
 .p-standing img {
+  width: 100%;
+}
+
+.p-potato {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 0;
+}
+
+.p-potato img {
   width: 100%;
 }
 
