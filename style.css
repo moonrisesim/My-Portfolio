@@ -200,6 +200,17 @@ section {
   width: 100%;
 }
 
+.p-clothes {
+  width: 100%;
+  max-width: 550px;
+  margin: auto;
+  margin-bottom: 0;
+}
+
+.p-clothes img {
+  width: 100%;
+}
+
 
 main {
   margin-bottom: 147px;
