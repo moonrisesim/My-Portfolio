@@ -149,6 +149,10 @@ section {
 
 .p-clothes {
   max-width: 550px;
+}
+
+.p-cat-illust {
+  max-width: 500px;
   margin-bottom: 0;
 }
 
